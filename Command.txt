@@ -1,0 +1,19 @@
+⚠️  INSTALL AK47 IN TERMUX  ⚠️
+
+👉 The "ak47" tool for Termux is a versatile package that streamlines the installation process of various tools with just one click. It provides a convenient and efficient way to enhance your Termux environment by quickly installing a curated selection of tools, saving you time and effort.
+
+✅ Installation
+
+•  apt update -y
+
+•  apt upgrade -y
+
+•  apt install git -y
+
+•  git clone https://github.com/princekrvert/ak47
+
+•  cd ak47
+
+•  bash ak47.sh
+
+✅ Done
